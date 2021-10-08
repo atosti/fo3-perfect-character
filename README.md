@@ -14,7 +14,7 @@ If you just want a guide to follow, go to the section titled **The Route**. Othe
 
 # Theory
 
-For years I've wanted to create the "perfect" character in Fallout 3 as quickly as possible. However, many of the guides on this matter are either extremely dated, inaccurate, or both. As such, I started theory-crafting my own route which I've detailed here.
+For years I've wanted to create the "perfect" character in Fallout 3 as quickly as possible. However, many of the guides on this matter are either extremely dated, inaccurate, or both. As such, I started crafting my own route which I've detailed here.
 
 There are a few karma choices I make in the route (such as killing Harold, or enslaving Arkansas) due to their rewards, but for the most part I leave karma decisions up to the player. Any that I do make have limited impact on the overall game world.
 
