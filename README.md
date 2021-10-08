@@ -403,6 +403,7 @@ Level-Up: Put 15 points into sneak (50) and 5 points into medicine (46). Select 
 Level-Up: Put 12 points into Medicine (60) and 8 points into Energy Weapons (70). Select Strong Back as your perk.
 </details>
 
+## Acquiring the Last Skill Bobbleheads
 <details>
 <summary></summary>
 
