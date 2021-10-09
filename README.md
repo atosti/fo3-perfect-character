@@ -36,7 +36,7 @@ This guide achieves a character with 100 in all skills, 10 in all SPECIAL stats 
 Overall, this means we're getting **1116 points** without ever touching a book. Using the Comprehension perk (to get +2pts per book) means that only **92** books need to be acquired to reach maximum level. This, combined with the fact that both Big Guns and Science books are infinitely respawning, means that maxing your skills is actually pretty easy.
 
 ### Quest Perks
-There are a handful of quest perks that make your character stronger. They're Ant Sight/Might, Barkskin, Rad Regeneration, Survival Guru, and Wired Reflexes. In total, these all come from 4 quests, so those are routed in to the 
+There are a handful of quest perks that make your character stronger. They're Ant Sight/Might, Barkskin, Rad Regeneration, Survival Guru, and Wired Reflexes. In total, these all come from 4 quests, so those are included in the route.
 
 # Perks
 
