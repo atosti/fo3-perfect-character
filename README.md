@@ -405,7 +405,7 @@ Level-Up: Put 12 points into Medicine (60) and 8 points into Energy Weapons (70)
 
 ## Acquiring the Last Skill Bobbleheads
 <details>
-<summary></summary>
+<summary>Level 9</summary>
 
 1. Travel to the Yao Guai Tunnels
     * Core Loot: Melee Weapons book and the Sneak Bobblehead
@@ -430,15 +430,19 @@ Level-Up: Put 12 points into Medicine (60) and 8 points into Energy Weapons (70)
 
 ## TBD - Next Steps
 Next Steps:
-1. Get the remaining skill bobbleheads: Small Guns, Lockpick
+1. Get the remaining skill bobbleheads: Small Guns, Lockpick 
 2. Return to Moira for the last chapter on RobCo.
     - Presently at 42, so I need 4 books (50) to complete the optional objective.
         * Library = 1
         * Grayditch = 1
         * Bethesda Ruins = 1
         * RobCo itself = 1
-
-
+3. Now all quests are complete.
+4. Setup the farms at Bethesda and the Fairfax ruins.
+5. Start farming for roughly 20 levels. Determine avg. EXP/run to estimate number of required runs.
+6. Figure out how to spend skillpoints and what your level 30 stats should look like prior to acquiring Almost Perfect.
+7. Now find the
+8. ALTERNATELY. You can discover these final locations ahead of time, or even account for the books in them to prevent how much Shalebridge/Bethesda must be farmed.
 
 # Skillbook and EXP Farming
 In Fallout 3, many enemies respawn every 3 in-game days. By using the wait mechanic to let 72 hours pass, many of the world's locations will have their enemies reset. Moreover, many enemies that spawn out in the open world of the Capitol Wasteland will respawn at the location of their dead body rather than where they were initially found. As such, locations can be initially cleared and rearranged to allow for more optimal subsequent farming. Just be sure to use a weapon that leaves behind a draggable body (e.g. avoid gooing enemies with Energy Weapons).
