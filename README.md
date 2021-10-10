@@ -23,7 +23,7 @@ I understand there are speedrunning strategies (such as Speedcripple), which wou
 
 ## What is meant by "perfect"?
 
-This guide achieves a character with 100 in all skills, 10 in all SPECIAL stats and prioritizes all Damage increases, Damage Reduction, and VATS improvement perks. There are only 2 perks that don't perfectly fit that mold: Strong Back and Silent Running. If you want to swap these two out for something else, go ahead.
+This guide achieves a character with 100 in all skills, 10 in all SPECIAL stats and prioritizes all Damage increases, Damage Reduction, and VATS improvement perks. To achieve this, the Broken Steel DLC is required. Moreover, 2 of the perks I pick don't perfectly fit this mold: Strong Back and Silent Running. If you want to swap these two out for something else, go ahead, but I explain my reasoning for them later on in this guide.
 
 ### Skillpoint Breakdown
 1. There are 13 skills in Fallout 3, raising them each to level 100 requires a total of **1300 points**.
