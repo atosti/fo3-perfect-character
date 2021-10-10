@@ -1,7 +1,7 @@
 # Fallout 3 Perfect Character Guide
 A guide for achieving perfection in Fallout 3.
 
-If you just want a guide to follow, go to the section titled **The Route**. Otherwise read on for an explanation of the route.
+If you just want a guide to follow, go to the section titled **The Route**. Otherwise read on for a more detailed explanation.
 
 # Table of Contents
 
