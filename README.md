@@ -467,7 +467,7 @@ This is the most important farm to setup and is mandatory for quick experience f
 
 # FAQ
 
-1. [Why 10 Intelligence?](#why-10-intelligence?)
+1. [Why 10 Intelligence?](#why-10-intelligence)
 2. [Why-Strong-Back-and-Silent-Running?](#why-strong-back-and-silent-running)
 3. [Skipped Perks](#skipped-perks)
 4. [What-about-the-energy-weapons-bobblehead?](#what-about-the-energy-weapons-bobblehead)
