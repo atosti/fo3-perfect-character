@@ -29,7 +29,7 @@ This guide achieves a character with 100 in all skills, 10 in all SPECIAL stats 
 1. There are 13 skills in Fallout 3, raising them each to level 100 requires a total of **1300 points**.
 2. At level 30 (with the bobbleheads) we'll have 10 in each SPECIAL stat. This gives an initial value of 27 to all your skills, totaling **351 points**.
 3. All characters get 3 initially tagged skills, totaling **45 points**.
-4. Having 10 intelligence grants us 20 points per level for 29 levels, totaling **580 points**.
+4. Having 10 intelligence grants 20 points per level-up (for 29 levels) totaling **580 points**.
 5. The skill bobbleheads each provide +10 to their skill, or **130 points** in total.
     * Note that in my route, I do something tricky: I ignore the Energy Weapons bobblehead in Raven Rock, since the Cyborg perk adds +10 to energy weapons.
 6. Yew's bear charm (an award for the Oasis quest) grants a permanent **10 points** to speech.
