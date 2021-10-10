@@ -26,7 +26,7 @@ I understand there are speedrunning strategies (such as Speedcripple), which wou
 This guide achieves a character with 100 in all skills, 10 in all SPECIAL stats and prioritizes all Damage increases, Damage Reduction, and VATS improvement perks. There are only 2 perks that don't perfectly fit that mold: Strong Back and Silent Running. If you want to swap these two out for something else, go ahead.
 
 ### Skillpoint Breakdown
-1. There are 13 skills in Fallout 3, raising them each to level 100 would be a total of **1300 points**.
+1. There are 13 skills in Fallout 3, raising them each to level 100 requires a total of **1300 points**.
 2. At level 30 (with the bobbleheads) we'll have 10 in each SPECIAL stat. This gives an initial value of 27 to all your skills, totaling **351 points**.
 3. All characters get 3 initially tagged skills, totaling **45 points**.
 4. Having 10 intelligence grants us 20 points per level for 29 levels, totaling **580 points**.
