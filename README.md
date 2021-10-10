@@ -430,7 +430,7 @@ Level-Up: Put 12 points into Medicine (60) and 8 points into Energy Weapons (70)
 
 ## TBD - Next Steps
 Next Steps:
-1. Get the remaining skill bobbleheads: Small Guns, Lockpick 
+1. Get the remaining skill bobbleheads: Small Guns, Lockpick (National Guard Depot + Bethesda Ruins)
 2. Return to Moira for the last chapter on RobCo.
     - Presently at 42, so I need 4 books (50) to complete the optional objective.
         * Library = 1
