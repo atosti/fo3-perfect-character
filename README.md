@@ -86,8 +86,8 @@ There are a handful of quest perks that make your character stronger. They're An
 29. Ninja
     * Req. Melee 80, Sneak 80
 30. Almost Perfect
-
 </details>
+
 
 # The Route
 I've divided the route into rough level-estimates (based on a Normal Difficulty playthrough), but being a game with many RNG mechanics it's likely you won't match it perfectly. This is fine and unlikely to cause issues, just aim to follow the route in order. If you really want to match it perfectly and happen to fall behind, try lockpicking some extra containers for bonus EXP.
@@ -473,26 +473,28 @@ This is the most important farm to setup and is mandatory for quick experience f
 4. [What-about-the-energy-weapons-bobblehead?](#what-about-the-energy-weapons-bobblehead)
 
 ## Why 10 Intelligence?
-Classic wisdom suggests selecting 9 intelligence and then getting 10 with Rivet City's bobblehead, but I ignore this. By taking 10 intelligence from the start, I can complete everything at Rivet City all at once. This means I can clear the Jefferson Memorial on the way to Rivet City, avoid waiting for the Rivet City bridge to extend (because your dad will activate it when he arrives) and means I only ever need to enter the Science Lab once to talk with both your dad AND Dr. Zimmer. Moreover, I don't have to immediately go out of my way to Rivet City at the start of a run and can get some of the waypoints on the route accomplished by doing other tasks.
+Conventional wisdom suggests having an initial intelligence of 9 and then immediately rushing to Rivet City for the Intelligence bobblehead (to reach 10), but after a lot of re-routing and analysis, I ignore this.
 
-Additionally, the SPECIAL point isn't better spent anywhere else. Since at level 30 your character will have 10 in all their SPECIAL stats (and we calculate around this number rather than your initial stats), putting points into them earlier doesn't actually reduce the number of books you need to farm. Aside from perk requirements and the skillpoint gain from Intelligence, your SPECIAL stats really don't matter.
+By taking 10 intelligence from the start, I can complete everything at Rivet City all at once. This means I can clear the Jefferson Memorial on the way to Rivet City, avoid waiting for the Rivet City bridge to extend (because your dad will activate it when he arrives), complete the Replicated Man and complete the Rivet City history chapter for The Wasteland Survival Guide all at once. This results in several smaller time saves as well, such as only ever needing to enter the Science Lab once. Moreover, I don't have to immediately go out of my way to Rivet City at the start of a run and can get some of the waypoints on the route accomplished while doing other tasks earlier in the run.
+
+Additionally, the SPECIAL point isn't better spent anywhere else. At level 30 your character will have 10 in all their SPECIAL stats. Since I calculate around this number (and account for the skill increases it provides), putting points into your SPECIALs earlier doesn't actually reduce the number of books you need to farm. Aside from perk requirements and the skillpoint gain from Intelligence, your initial SPECIAL stats really don't matter.
 
 ## Why Strong Back and Silent Running?
-First and foremost, there aren't many other perks that make you directly more powerful for these two perk slots, so they're more flexible. While arguments could be made for many other perks, such as Quantum Chemist providing a permanent AP boost in the form of infinite cola, or Nerd Rage situationally improving DR, I selected perks that would consistently assist the player in a significant way. My reasoning for each one is listed below.
+First and foremost, almost every perk that makes you directly more powerful is already selected in the rest of the build, so these two slots are more flexible. While arguments could be made for many other perks, such as Quantum Chemist providing a pseudo-permanent AP boost in the form of infinite colas, or Nerd Rage situationally improving DR, I selected perks that would consistently assist the player in a significant way. My reasoning for each one is listed below.
 
 ### Strong Back
 
-By increasing your carry weight by 50, this allows you to carry power armor for free. I consider this similar to a Damage Reduction upgrade, but I understand that it's largely a quality of life improvement. That being said, it's a big quality of life improvement, and helps during both the mid and late game.
+By increasing your carry weight by 50, this allows you to carry power armor for free. I consider this similar to a Damage Reduction upgrade, but I understand that it's largely a quality of life improvement. That being said, it's a big quality of life improvement, and helps before and after maximum level.
 
 ### Silent Running
 
-The +10 sneak is a nice bonus, but that's not why it's taken. By allowing the player to sneak while running, they can more easily (and quickly) perform sneak attack criticals, which amounts to an overall increase in average damage output. If you decide to swap this out for something else, just be sure to account for the +10 sneak points it provides in some other way.
+The +10 sneak is a nice bonus, but that's not why it's taken. By allowing the player to sneak while running, they can more easily (and quickly) perform sneak attack criticals, which amounts to an overall increase in damage output. If you decide to swap this out for something else, just be sure to account for the +10 sneak points it provides in some other way.
 
 ## Skipped Perks
 
 ### Admantium Skeleton
 
-This only affects how often limbs are crippled rather than reducing raw damage. As such, it only affects the frequency of stimpack use which has a very minor impact on gameplay, so I opt for something more significant.
+This only affects how often limbs are crippled rather than reducing raw damage. As such, it only affects the frequency of stimpack use, which I view as a very minor impact on gameplay, so I opt for something more significant.
 
 ### Nerd Rage
 
@@ -500,7 +502,7 @@ Damage reduction is permanently capped at 85 for all characters, so the +50 you 
 
 ### Nerves of Steel
 
-While AP regeneration sounds good, the amount gained by this is so low that it's negligible. In fact, many players initially thought the perk was broken in the vanilla game because of how weak it is. Besides, since the build already uses Grim Reaper's Sprint, you'll be at full AP for many encounters in the late-game anyway.
+While AP regeneration sounds good, the amount gained by this is so low that it's negligible. In fact, many players initially thought the perk was broken because of how minor the regen is. Since the build already uses Grim Reaper's Sprint, I choose to rely on that for AP regeneration instead.
 
 ### Rad Resistance
 
@@ -508,6 +510,7 @@ While this is a straight upgrade to your character, radiation resistance has lim
 
 ## What About the Energy Weapons Bobblehead?
 My route skips Raven Rock due to the time investment required to reach it. As such, the Energy Weapons bobblehead is skipped. I account for this loss in +10 Energy Weapons through the Cyborg perk which provides the same skill bonus (in addition to damage reduction). 
+
 
 # Making Your Own Adjustments
 TBD.
