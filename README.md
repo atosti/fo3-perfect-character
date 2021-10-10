@@ -9,8 +9,9 @@ If you just want a guide to follow, go to the section titled **The Route**. Othe
 2. [The Build](#the-build)
 3. [Perks](#perks)
 4. [The Route](#the-route)
-5. [Book and EXP Farming](#book-and-exp-farming)
+5. [Skillbook and EXP Farming](#book-and-exp-farming)
 6. [FAQ](#faq)
+7. [Making Your Own Adjustments](#making-your-own-adjustments)
 
 # Theory
 
@@ -463,6 +464,9 @@ Also, be sure not to attract the ghouls from the Bethesda Underworks above groun
 This is the most important farm to setup and is mandatory for quick experience farming during the mid to late levels. It's home to a ton of raiders and once The Waters of Life quest is complete, the enclave will setup camps to the North and East of the ruins. Simply kill these groups and drag their bodies into the pitfall trap near the metro station entrance. Every three days you'll have a pit full of enemies which you can toss a few grenades into to get a few hundred experience points.
 
 Pro tip: Lure the enemies toward the pitfall trap and kill them nearby. If they're too far away, dragging all the bodies into the pit can be very tedious.
+
+# FAQ
+TBD
 
 # Making Your Own Adjustments
 
