@@ -5,13 +5,12 @@ If you just want a guide to follow, go to the section titled **The Route**. Othe
 
 # Table of Contents
 
-1. [Theory](#example)
-2. [The Build](#the-build)
-3. [Perks](#perks)
-4. [The Route](#the-route)
-5. [Skillbook and EXP Farming](#book-and-exp-farming)
-6. [FAQ](#faq)
-7. [Making Your Own Adjustments](#making-your-own-adjustments)
+1. [Theory](#theory)
+2. [Perks](#perks)
+3. [The Route](#the-route)
+4. [Skillbook and Experience Farming](#skillbook-and-experience-farming)
+5. [FAQ](#faq)
+6. [Making Your Own Adjustments](#making-your-own-adjustments)
 
 # Theory
 
@@ -91,7 +90,7 @@ There are a handful of quest perks that make your character stronger. They're An
 </details>
 
 # The Route
-I've divided the route into rough level-estimates (based on a Normal Difficulty playthrough), but being a game with many RNG mechanics it's likely you won't match it perfectly. This is fine and is unlikely to cause issues, just aim to follow the route in order. A good way to round out the edges is to Lockpick some extra containers for the bonus EXP.
+I've divided the route into rough level-estimates (based on a Normal Difficulty playthrough), but being a game with many RNG mechanics it's likely you won't match it perfectly. This is fine and unlikely to cause issues, just aim to follow the route in order. If you really want to match it perfectly and happen to fall behind, try lockpicking some extra containers for bonus EXP.
 
 There are really only a few rules follow for success:
 1. Follow the route and its order of events.
@@ -102,16 +101,16 @@ There are really only a few rules follow for success:
 
 ## Character Build
 ### SPECIAL
-ST = 5, PE = 6, EN = 6, C = 1, I = 10, A = 6, L = 6
+**ST = 5, PE = 6, EN = 6, C = 1, I = 10, A = 6, L = 6**
 
-Most of these are selected for Perk requirements, but 10 Intelligence is specifically chosen to allow for the maximum amount of skillpoints per level-up. If you're wondering why I don't pick 9, it's so I can only ever go to Rivet City one and clear the Jefferson Memorial (a quest requirement) as I'm forced to walk through it.
+Most of these are selected for Perk requirements, and 10 Intelligence is chosen to earn the maximum skillpoints per level-up.
 
 ### Tagged Skills
-Explosives, Lockpick, Small Guns
-1. Explosives is a key skill for the EXP farming that will be done midway through the run, and having it at 50 is also needed for Demolition Expert.
-2. Level 50 lockpicking is needed pretty early on, so tagging it here makes a lot of sense.
-3. Given you start the game with a 10mm pistol, this will help make the initial steps much easier. Plus, you eventually need 60 small guns for Concentrated Fire, so the points are well spent.
+**Explosives, Lockpick, Small Guns**
 
+1. Explosives of 50 is required for Demolition Expert, which is an early perk and required for EXP farming later on.
+2. Level 50 lockpicking is needed almost immediately, so tagging it allows that to be easily achieved.
+3. Early game revolves around the 10mm pistol and other small guns, so this makes initial leveling easier and more consistent.
 
 ## The Introduction
 <details>
@@ -445,7 +444,7 @@ Next Steps:
 7. Now find the
 8. ALTERNATELY. You can discover these final locations ahead of time, or even account for the books in them to prevent how much Shalebridge/Bethesda must be farmed.
 
-# Skillbook and EXP Farming
+# Skillbook and Experience Farming
 In Fallout 3, many enemies respawn every 3 in-game days. By using the wait mechanic to let 72 hours pass, many of the world's locations will have their enemies reset. Moreover, many enemies that spawn out in the open world of the Capitol Wasteland will respawn at the location of their dead body rather than where they were initially found. As such, locations can be initially cleared and rearranged to allow for more optimal subsequent farming. Just be sure to use a weapon that leaves behind a draggable body (e.g. avoid gooing enemies with Energy Weapons).
 
 One more note on the matter. I've read a few (very dated) posts online that mention placing more than 6 enemies of a single type (e.g. 7 raiders) in an area can cause some bodies to disappear from the game forever. While I can't confirm that limiting your bodycount to 6 will prevent this, I have encountered bodies disappearing in some of my saves when using large quantities. If it happens to you, consider limiting each enemy type to a maximum of 6 per area to prevent this. (So 6 raiders and 3 enclave soldiers is fine, but 7 raiders isn't.)
@@ -463,39 +462,52 @@ Also, be sure not to attract the ghouls from the Bethesda Underworks above groun
 ### Fairfax Ruins
 This is the most important farm to setup and is mandatory for quick experience farming during the mid to late levels. It's home to a ton of raiders and once The Waters of Life quest is complete, the enclave will setup camps to the North and East of the ruins. Simply kill these groups and drag their bodies into the pitfall trap near the metro station entrance. Every three days you'll have a pit full of enemies which you can toss a few grenades into to get a few hundred experience points.
 
-Pro tip: Lure the enemies toward the pitfall trap and kill them nearby. If they're too far away, dragging all the bodies into the pit can be very tedious.
+**Pro tip**: Lure the enemies toward the pitfall trap and kill them nearby. If they're too far away, dragging all the bodies into the pit can be very tedious.
+
 
 # FAQ
-TBD
 
-# Making Your Own Adjustments
+1. [Why 10 Intelligence?](#why-10-intelligence?)
+2. [Why-Strong-Back-and-Silent-Running?](#why-strong-back-and-silent-running)
+3. [Skipped Perks](#skipped-perks)
+4. [What-about-the-energy-weapons-bobblehead?](#what-about-the-energy-weapons-bobblehead)
 
+## Why 10 Intelligence?
+Classic wisdom suggests selecting 9 intelligence and then getting 10 with Rivet City's bobblehead, but I ignore this. By taking 10 intelligence from the start, I can complete everything at Rivet City all at once. This means I can clear the Jefferson Memorial on the way to Rivet City, avoid waiting for the Rivet City bridge to extend (because your dad will activate it when he arrives) and means I only ever need to enter the Science Lab once to talk with both your dad AND Dr. Zimmer. Moreover, I don't have to immediately go out of my way to Rivet City at the start of a run and can get some of the waypoints on the route accomplished by doing other tasks.
+
+Additionally, the SPECIAL point isn't better spent anywhere else. Since at level 30 your character will have 10 in all their SPECIAL stats (and we calculate around this number rather than your initial stats), putting points into them earlier doesn't actually reduce the number of books you need to farm. Aside from perk requirements and the skillpoint gain from Intelligence, your SPECIAL stats really don't matter.
+
+## Why Strong Back and Silent Running?
+First and foremost, there aren't many other perks that make you directly more powerful for these two perk slots, so they're more flexible. While arguments could be made for many other perks, such as Quantum Chemist providing a permanent AP boost in the form of infinite cola, or Nerd Rage situationally improving DR, I selected perks that would consistently assist the player in a significant way. My reasoning for each one is listed below.
 
 ### Strong Back
 
-This allows you to carry power armor for free. In a sense, this is a Damage Reduction upgrade.
+By increasing your carry weight by 50, this allows you to carry power armor for free. I consider this similar to a Damage Reduction upgrade, but I understand that it's largely a quality of life improvement. That being said, it's a big quality of life improvement, and helps during both the mid and late game.
 
 ### Silent Running
 
-This allows you to perform sneak attack criticals much more easily, which can be thought of as a form of increasing damage.
+The +10 sneak is a nice bonus, but that's not why it's taken. By allowing the player to sneak while running, they can more easily (and quickly) perform sneak attack criticals, which amounts to an overall increase in average damage output. If you decide to swap this out for something else, just be sure to account for the +10 sneak points it provides in some other way.
 
 ## Skipped Perks
 
 ### Admantium Skeleton
 
-Only affects crippling of limbs rather than raw damage reduction. Could be swapped for either Strong Back or Silent Running (but account for the +10 sneak if doing the latter).
+This only affects how often limbs are crippled rather than reducing raw damage. As such, it only affects the frequency of stimpack use which has a very minor impact on gameplay, so I opt for something more significant.
 
 ### Nerd Rage
 
-Damage reduction is permanently capped at 85 for all characters, so the +50 you get from this is rarely getting full value. Additionally, the 10 strength is irrelevant when you're maxed out. Add on the fact that this only ever triggers at 20% or less HP and you get a very situational, weak perk.
+Damage reduction is permanently capped at 85 for all characters, so the +50 you get from this is rarely getting full value. Additionally, the 10 strength buff is irrelevant when you're max level. Add on the fact that this only ever triggers at 20% or less HP and you get a very situational, weak perk.
 
 ### Nerves of Steel
 
-While AP regeneration sounds good, the amount gained by this is so low that it's negligible. Besides, the build has Grim Reaper's Sprint, so you'll be at full AP for most of the late-game anyway.
+While AP regeneration sounds good, the amount gained by this is so low that it's negligible. In fact, many players initially thought the perk was broken in the vanilla game because of how weak it is. Besides, since the build already uses Grim Reaper's Sprint, you'll be at full AP for many encounters in the late-game anyway.
 
 ### Rad Resistance
 
-While this is a straight upgrade to your character, radiation resistance is largely useless, and there are much more valuable perks to pick in its place.
+While this is a straight upgrade to your character, radiation resistance has limited use and is easily mitigated via Rad-X and Rad-Away. Considering the limited amount of perks you get to choose, I opt for something more impactful.
 
-# Important things to note
-This route skips Raven Rock (and thus the Energy weps bobble).
+## What About the Energy Weapons Bobblehead?
+My route skips Raven Rock due to the time investment required to reach it. As such, the Energy Weapons bobblehead is skipped. I account for this loss in +10 Energy Weapons through the Cyborg perk which provides the same skill bonus (in addition to damage reduction). 
+
+# Making Your Own Adjustments
+TBD.
