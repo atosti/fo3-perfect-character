@@ -448,7 +448,7 @@ Level-Up: Put 12 points into Medicine (60) and 8 points into Energy Weapons (70)
 
 ## Finishing The Wasteland Survival Guide
 <details>
-<summary>Level 11</summary>
+<summary>Level 10</summary>
 1. In progress...
 
 </details>
