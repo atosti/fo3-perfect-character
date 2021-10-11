@@ -426,23 +426,47 @@ Level-Up: Put 12 points into Medicine (60) and 8 points into Energy Weapons (70)
 4. Travel to the Super-Duper Mart
     * Walk across the bridge to the North, then head straight East to the National Guard Depot.
     * Kill any enemies along the way.
+5. Enter the National Guard Depot
+   * **Core Loot:** Energy Weapons, Barter, and Explosives books. Also a bottlecap mine and the Small Guns Bobblehead.
+   * In the first zone go to the South-eastern corner on the bottom floor and find the Energy Weapons book on a shelf in a closet.
+   * Find the bottlecap mine on a workbench on the middle floor near a stairwell.
+   * Proceed to the Training Wing. Follow the hallway to the East and go up the stairs to find the Barter book lying on a desk.
+   * Continue through the zone and enter the Depot Offices. Proceed through the zone until you reach the irradiated section. The Explosives book is on the long counter in the radiation (on the Eastern end of it).
+   * Proceed through the zone and return to the offices. Activate the switch on the wall in this office, then drop down to the armory door below.
+   * Enter the armory and find the Small Guns Bobblehead on a shelf in the center of the room with supplies. Grab at least the stimpacks, mines, and grenades while you're here.
+6. Return to the Super-Duper Mart and head North.
+7. Arrive at the Bethesda Ruins
+   * **Core Loot:** Science, Repair, Sneak and Big Guns books. Also a bottlecap mine and the Lockpick Bobblehead.
+   * This is the first farm we'll be setting up, so avoid killing the raiders with energy weapons. Read the lower section on Farming for a more detailed description.
+   * Lure as many of the exterior raiders into the West Ruins and kill them inside along with the zone's occupants.
+   * The Science book is on the front desk on the bottom floor, while the Repair book on the top floor in a crate with a steam gauge assembly on top. Disarm the shotgun traps in this same room for free microfusion cells.
+   * Now go to the East Ruins and kill the raiders inside. The raider with a flamer will always have a Big Guns book (and will respawn with it).
+   * The Sneak book is on a second-floor desk next to some missiles.
+   * The Lockpick Bobblehead is on the same floor in a nearby room in-front of a wall safe. This room also has a workbench with the bottlecap mine atop it. 
+**Level-Up:** Put all 20 points into Barter (49). Select Finesse as your perk.
+</details>
+
+## Finishing The Wasteland Survival Guide
+<details>
+<summary>Level 11</summary>
+1. In progress...
+
 </details>
 
 ## TBD - Next Steps
 Next Steps:
-1. Get the remaining skill bobbleheads: Small Guns, Lockpick (National Guard Depot + Bethesda Ruins)
-2. Return to Moira for the last chapter on RobCo.
+1. Return to Moira for the last chapter on RobCo.
     - Presently at 42, so I need 4 books (50) to complete the optional objective.
         * Library = 1
         * Grayditch = 1
         * Bethesda Ruins = 1
         * RobCo itself = 1
-3. Now all quests are complete.
-4. Setup the farms at Bethesda and the Fairfax ruins.
-5. Start farming for roughly 20 levels. Determine avg. EXP/run to estimate number of required runs.
-6. Figure out how to spend skillpoints and what your level 30 stats should look like prior to acquiring Almost Perfect.
-7. Now find the
-8. ALTERNATELY. You can discover these final locations ahead of time, or even account for the books in them to prevent how much Shalebridge/Bethesda must be farmed.
+2. Now all quests are complete.
+3. Setup the farms at Bethesda and the Fairfax ruins.
+4. Start farming for roughly 20 levels. Determine avg. EXP/run to estimate number of required runs.
+5. Figure out how to spend skillpoints and what your level 30 stats should look like prior to acquiring Almost Perfect.
+6. Now find the SPECIAL bobbleheads and their locations.
+7. ALTERNATELY. You can discover these final locations ahead of time, or even account for the books in them to prevent how much Shalebridge/Bethesda must be farmed.
 
 # Skillbook and Experience Farming
 In Fallout 3, many enemies respawn every 3 in-game days. By using the wait mechanic to let 72 hours pass, many of the world's locations will have their enemies reset. Moreover, many enemies that spawn out in the open world of the Capitol Wasteland will respawn at the location of their dead body rather than where they were initially found. As such, locations can be initially cleared and rearranged to allow for more optimal subsequent farming. Just be sure to use a weapon that leaves behind a draggable body (e.g. avoid gooing enemies with Energy Weapons).
