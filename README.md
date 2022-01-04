@@ -161,12 +161,12 @@ Level-Up: Put 10 points into Repair (35) and 10 points into Small Guns (44). Sel
 2. Vault 101
     * Walk Northwest from here to reach Vault 106.
 3. Vault 106 (2)
-    * Core Loot: Energy Weapons and Lockpick books, and Science Bobblehead
+    * Core Loot: Energy Weapons book, Lockpick book, and Science Bobblehead.
     * Skip the enemies in the first area, and proceed to the Living Quarters.
-    * Kill the 2 enemies here, and loot the Energy Weapons book in the northeastern room on the upper floor (in the bottom of a crate in a stack of crates atop a desk).
+    * Kill the 2 enemies here, and loot the Energy Weapons book in the northeastern room on the upper floor of the atrium. It's hidden at the bottom of a stack of crates atop the teacher's desk.
     * Then grab the Science Bobblehead from the eastern-most room.
     * Lockpick the door at the bottom of the atrium and enter the Science Labs.
-    * Go down a level, then take the first right past a shopping cart and loot the Lockpick book inside this room. Also kill the survivor here.
+    * Go down a level, take the second right down more stairs, then take another right and enter the room in front of you. Once inside, turn left to find the Tumbler's Today atop a box in the corner of the room. Also kill the survivor here.
     * Now just backtrack and leave the area. Head North-Northwest to Arefu.
 4. Arefu
     * Core Loot: Repair Bobblehead
