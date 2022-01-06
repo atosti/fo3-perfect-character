@@ -92,7 +92,7 @@ There are a handful of quest perks that make your character stronger. They're An
 # The Route
 I've divided the route into rough level-estimates (based on a Normal Difficulty playthrough), but being a game with many RNG mechanics it's likely you won't match it perfectly. This is fine and unlikely to cause issues, just aim to follow the route in order. If you really want to match it perfectly and happen to fall behind, try lockpicking some extra containers for bonus EXP.
 
-There are really only a few rules follow for success:
+There are really only a few rules to follow for success:
 1. Follow the route and its order of events.
 2. Loot all stimpacks and frag grenades/mines that you can easily get and save the latter for the Fairfax farm. They make the route easier and faster.
 3. Wait until you get the Comprehension perk to read any books. After that, read them as soon as you get them.
