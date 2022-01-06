@@ -121,7 +121,7 @@ Most of these are selected for Perk requirements, and 10 Intelligence is chosen 
     * Complete Vault 101 however you want. Just be sure to grab the Medicine bobblehead off your dad's desk in his office. Additionally, I'd suggest saving your stims and ammo for the wasteland.
     * Once you enter the wasteland, you'll level up.
 
-Level Up: Put 18 points into Lockpick (50) and 2 points into Small Guns (34). Select Swift Learner 1 as your perk.
+**Level Up:** Put 18 points into Lockpick (50) and 2 points into Small Guns (34). Select Swift Learner 1 as your perk.
 </details>
 
 ## Getting Supplies
@@ -149,7 +149,7 @@ Level Up: Put 18 points into Lockpick (50) and 2 points into Small Guns (34). Se
     * Kill all the raiders (both waves) for their experience points.
     * I tend to also loot an assault rifle plus some .556 ammo as a backup to my pistol.
 
-Level-Up: Put 10 points into Repair (35) and 10 points into Small Guns (44). Select Black Widow or Lady Killer as your perk.
+**Level-Up:** Put 10 points into Repair (35) and 10 points into Small Guns (44). Select Black Widow or Lady Killer as your perk.
 </details>
 
 ## Acquiring Mines
@@ -183,7 +183,7 @@ Level-Up: Put 10 points into Repair (35) and 10 points into Small Guns (44). Sel
     * Inside each house is one skillbook and one lockpickable safe. Loot all the books, then disarm mines and lockpicks safes until you level up.
     * Be sure to walk to the Merry-go-round at the center of the town for Moira (and collect at least one mine for her).
 
-Level-Up: Put all 20 points into Unarmed. Select Comprehension as your perk.
+**Level-Up:** Put all 20 points into Unarmed. Select Comprehension as your perk.
 </details>
 
 ## Getting Bobblehead Locations
@@ -256,7 +256,7 @@ Level-Up: Put all 20 points into Unarmed. Select Comprehension as your perk.
     * Kill all molerats on the way and inside the garage with the repellent stick.
     * The lockpick book is in an open safe behind the front counter.
 
-Level-Up: Put 3 points into Science (40) and 17 points into Energy Weapons (36). Select Entomologist as your perk.
+**Level-Up:** Put 3 points into Science (40) and 17 points into Energy Weapons (36). Select Entomologist as your perk.
 </details>
 
 ## Preparing for Rivet City
@@ -286,7 +286,7 @@ Level-Up: Put 3 points into Science (40) and 17 points into Energy Weapons (36).
     * Unequipping armor helps with this step immensely. If you lack a grenade, jump off the railing instead.
     * Return to Moira turn in this step, completing chapter 2. Select researching Rivet City's history as the next step.
 
-Level-Up: Put 4 points into explosives (50) and 16 points into Energy Weapons (52). Select Demolition Expert 1 as your perk.
+**Level-Up:** Put 4 points into explosives (50) and 16 points into Energy Weapons (52). Select Demolition Expert 1 as your perk.
 </details>
 
 ## Setting Up Project Purity
@@ -330,7 +330,7 @@ Level-Up: Put 4 points into explosives (50) and 16 points into Energy Weapons (5
     * Keep killing and looting enclave, and be sure to grab the Energy weapons book, it's on a picnic table next to a Nuka-cola Quantum.
     * Exit the tunnels and escort Dr. Li into the Citadel
 
-Level-Up: Put 8 points into Energy weapons (60) and 12 points into Sneak (35). Select Demolition Expert 2 as your perk.
+**Level-Up:** Put 8 points into Energy weapons (60) and 12 points into Sneak (35). Select Demolition Expert 2 as your perk.
 </details>
 
 ## Reaching the Citadel
@@ -340,7 +340,7 @@ Level-Up: Put 8 points into Energy weapons (60) and 12 points into Sneak (35). S
 1. The Citadel
     * Entering the Citadel will grant you a lot of experience, which should finish out this level.
 
-Level-Up: Put 15 points into sneak (50) and 5 points into medicine (46). Select Demolition Expert 3 as your perk.
+**Level-Up:** Put 15 points into sneak (50) and 5 points into medicine (46). Select Demolition Expert 3 as your perk.
 </details>
 
 ## Getting Geared
@@ -400,7 +400,7 @@ Level-Up: Put 15 points into sneak (50) and 5 points into medicine (46). Select 
     * Inside Harold's chamber talk to Tree Father Birch to complete the quest and get experience.
     * Now find Sapling Yew and she'll gift you the bear charm. This permanently buffs your Speech by 10 points. You can sell it afterwards, it doesn't need to stay in your inventory.
 
-Level-Up: Put 12 points into Medicine (60) and 8 points into Energy Weapons (70). Select Strong Back as your perk.
+**Level-Up:** Put 12 points into Medicine (60) and 8 points into Energy Weapons (70). Select Strong Back as your perk.
 </details>
 
 ## Acquiring the Last Skill Bobbleheads
@@ -443,6 +443,7 @@ Level-Up: Put 12 points into Medicine (60) and 8 points into Energy Weapons (70)
    * Now go to the East Ruins and kill the raiders inside. The raider with a flamer will always have a Big Guns book (and will respawn with it).
    * The Sneak book is on a second-floor desk next to some missiles.
    * The Lockpick Bobblehead is on the same floor in a nearby room in-front of a wall safe. This room also has a workbench with the bottlecap mine atop it. 
+
 **Level-Up:** Put all 20 points into Barter (49). Select Finesse as your perk.
 </details>
 
